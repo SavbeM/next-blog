@@ -18,7 +18,7 @@ export default function RootLayout({children,}: {
         <body className={inter.className}>
             <div className="flex flex-col min-h-screen">
                  <Header/>
-                 <main className="flex flex-[1_0_auto]">{children}</main>
+                 <main className="flex flex-[1_0_auto] justify-center w-full h-full">{children}</main>
                   <Footer/>
             </div>
         </body>

@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": "12",
+      "id": "54365",
+      "title": "post",
+      "body": "lorem lorem"
+    },
+    {
+      "userId": 122210123,
+      "id": "Thu Jun 08 2023 22:15:19 GMT+0300 (Москва, стандартное время)",
+      "title": "pisia",
+      "body": "popa"
+    }
+  ]
+}
